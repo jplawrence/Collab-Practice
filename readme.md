@@ -22,8 +22,8 @@ Fork this repository to your own github profile
         Click on the arrow next to the green code button in your repo
         And copy the link from there
     </li>
-        Go to your pc make open git bash or anything similar and use this command
     <li>
+        Go to your pc make open git bash or anything similar and use this command
     </li>
     <li>
        git clone <copied_link_here>
