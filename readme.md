@@ -14,22 +14,52 @@ Fork this repository to your own github profile
         And the copied repo in your account is a forked repo
       </li>
 </li>
--Then clone the forked repository into your computer
-    - To clone it you have to copy the link of your forked repo 
-        - Click on the arrow next to the green code button in your repo
-        - And copy the link from there
-    - Go to your pc make open git bash or anything similar and use this command
-    - git clone <copied_link_here>
+<li>
+  Then clone the forked repository into your computer
+  <ul>
+    <li>
+        To clone it you have to copy the link of your forked repo 
+        Click on the arrow next to the green code button in your repo
+        And copy the link from there
+    </li>
+        Go to your pc make open git bash or anything similar and use this command
+    <li>
+    </li>
+    <li>
+       git clone <copied_link_here>
+    </li>
+  </ul>
+</li>
+<li>
+  Then create a branch aside from the default master branch using
+  <ul>
+    <li>
+      git branch <new_branch_name>
+    </li>
+    <li>
+      git checkout <new_branch_name>
+      The <git checkout> command is used so you can switch to that branch
+      And all the change and commits will be made in this branch
+      WE should alwaws create new branch for new feature, bug fix and any changes.
+    </li>
+  </ul>
+</li>
+<li>
+  Then write some lines at the end of this(readme.txt) file.
+</li>
+<li>
+  Add and Commit those changes.
+</li>  
+<li>
+  Then push these to your remote repo as how you usually do
+</li>
+<p>
+  Remember to push your <new_branch> the one your created not the master branch
+</p>
+<li>
+  Then go to your repo and you can see a new option <Comare & Pull Request>
+</li>
+<li>
+  Then the rest should be easy
+</li>
 
--Then create a branch aside from the default master branch using
-    - git branch <new_branch_name>
-    - git checkout <new_branch_name>
-    // The <git checkout> command is used so you can switch to that branch
-    // And all the change and commits will be made in this branch
-    // WE should alwaws create new branch for new feature, bug fix and any changes.
--Then write some lines at the end of this(readme.txt) file.
--Add and Commit those changes.
--Then push these to your remote repo as how you usually do.
-//Remember to push your <new_branch> the one your created not the master branch
--Then go to your repo and you can see a new option <Comare & Pull Request>
--Then the rest should be easy
