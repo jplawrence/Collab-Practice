@@ -18,7 +18,7 @@ Fork this repository to your own github profile
   Then clone the forked repository into your computer
   <ul>
     <li>
-        To clone it you have to copy the link of your forked repo 
+        To clone it you have to copy the link of your forked repo.
         Click on the arrow next to the green code button in your repo
         And copy the link from there
     </li>
