@@ -1,12 +1,19 @@
 #  HI if you wanna practice how to create a pull request then follow these steps:- 
 
--Fork this repository to your own github profile 
+<ul>
+  <li>
+Fork this repository to your own github profile 
   (Which will make a copy of this repository in your git account
-  which is linked to my repository where you fork it from.)
-    - There is a fork button in the top-right corner of the repo
-    // So now the repo in my account is original repo
-    // And the copied repo in your account is a forked repo
-
+    which is linked to my repository where you fork it from.)
+    <ul>
+      <li>
+        There is a fork button in the top-right corner of the repo
+      </li>
+      <li>
+        So now the repo in my account is original repo
+        And the copied repo in your account is a forked repo
+      </li>
+</li>
 -Then clone the forked repository into your computer
     - To clone it you have to copy the link of your forked repo 
         - Click on the arrow next to the green code button in your repo
